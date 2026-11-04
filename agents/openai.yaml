@@ -1,0 +1,4 @@
+interface:
+  display_name: "民事案件请求权基础检视"
+  short_description: "逐项引用具体请求权基础，再转成证据、攻防与行动方案"
+  default_prompt: "请使用 $civil-claim-basis-review 检视我的民事案件。每个请求先引用经核验的合同条款或法律、司法解释具体条款，区分直接请求权基础与辅助、计量、证明、抗辩规范，再按案情、问题、大纲、解题及律师实务检视输出。"
